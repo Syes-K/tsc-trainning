@@ -1,0 +1,20 @@
+{
+  "name": "tsc-trainning",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yongsheng.kuang <yongsheng.kuang@ptthink.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Syses/tsc-trainning",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
