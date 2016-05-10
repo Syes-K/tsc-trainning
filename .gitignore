@@ -7,3 +7,6 @@
 *.ipr
 *.ids
 *.orig
+
+#bower 安装的组建
+bower_components/**
